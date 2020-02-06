@@ -32,5 +32,22 @@
 			"publishedDate": "2019-10-24",
 			"lastUpdated": "2019-10-21T09:28:56"
 		}
+	],
+	"products": [{
+			"id": 1,
+			"icon": "savings",
+			"title": "Regular Savings Plan",
+			"content": "Save and look forward to",
+			"publishedDate": "2019-10-24",
+			"lastUpdated": "2019-10-21T09:28:56"
+		},
+		{
+			"id": 2,
+			"icon": "insurance",
+			"title": "Car Insurance",
+			"content": "Cover that goes further for the Police family",
+			"publishedDate": "2019-10-24",
+			"lastUpdated": "2019-10-21T09:28:56"
+		}
 	]
 }
